@@ -59,6 +59,13 @@
 - replace('.',',') - Substitui ponto por virgula
 - toLocaleString('pt-BR', {style: 'currency, currency: 'BRL'}) - Formatação para valores monetários em reais(BRL)
 
+### Operadores 
+- aritiméticos
+- atribuição
+- relacionais
+- lógicos
+- ternário
+
 ### Operadores aritiméticos
 -  "+" - Soma
 -  "-" - Subtração
@@ -73,7 +80,7 @@
 3. "*", "/", "%"
 4. "+", "-"
 
-### Operador de atribuição
+### Operadores de atribuição
 ##### Atribuição simples
 - =
 ##### Auto-atribuição
@@ -81,3 +88,26 @@
 - n += 3 Corresponde a n = n + 3
 - n++ Corresponde a n = n + 1
 
+### Operadores relacionais
+###### O resultado de operações relacionais é sempre um valor booleano
+- ">" - Maior que
+- "<" - Menor que
+- ">=" - Maior ou igual
+- "<=" - Menor ou igual
+- "==" - Igualdade sem comparação de tipo
+- "===" - Igualdade restrita (com comparação de tipo)
+- "!=" - Desigualdade
+- "!==" - Desigualdade restrita (com comparação de tipo)
+
+### Operadores lógicos
+- ! - Negação
+- && - Conjunção - E
+- || - Disjunção - OU
+
+### Precedencia de operadores 
+- Aritiméticos
+- Relacionais 
+- Lógicos(!, &&, ||)
+
+### Operador ternário
+- teste ? true : false
