@@ -3,8 +3,8 @@
 ### História
 - 1969 - Arpanet - Rede construida para transmissão de dados militares
 - 1993 - WorldWideWeb
-- 1995 - Criação e ascendencia do Java
-- 1995 -  NetScape - Brendan Eich - Linguagem criada para dar mais funcionalidades ao html - Moca -> LiveScript -> Nome alterado para JavaScript devido a popularidade do Java
+- 1995 - Ascendencia do Java
+- 1995 -  NetScape - Brendan Eich - Linguagem criada para dar mais funcionalidades ao html - Live Script -> Nome alterado para JavaScript devido a popularidade do Java
 - 1997 - ECMA - Padronização do JavaScript
 
 ### EcmaScript 

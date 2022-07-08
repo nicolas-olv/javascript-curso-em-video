@@ -53,10 +53,10 @@
 - s.length - Quantidade de caracteres
 - s.toUpperCase() - Tudo em letra maiúscula
 - s.toLowerCase() - Tudo em letra minúscula
+- replace('.',',') - Substitui ponto por virgula
 
 ### Formatação de números
 - toFixed(2) - Define o número de casas decimais
-- replace('.',',') - Substitui ponto por virgula
 - toLocaleString('pt-BR', {style: 'currency, currency: 'BRL'}) - Formatação para valores monetários em reais(BRL)
 
 ### Operadores 
